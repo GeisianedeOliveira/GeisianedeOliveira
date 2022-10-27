@@ -1,4 +1,4 @@
-### <h3> Olá, que bom que você veio! 👋🏾😊 </h3>
+### <h3 align="center"> Olá, que bom que você veio! 👋🏾😊 </h3>
 
 ### Sobre mim:
 
