@@ -6,7 +6,7 @@
 
 ### O que tenho estudado:
 
-<img "widtch=50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/JS.png">
+<img widtch="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/JS.png">
 
 #### Teste
 
