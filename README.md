@@ -6,7 +6,7 @@
 
 ### O que tenho estudado:
 
-<img src="">
+<img src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/JS.png">
 
 #### Teste
 
