@@ -6,11 +6,12 @@
 
 ### Tecnologias que estudo:
 
-
+<div style="display: inline_block">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/HTML.png">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/CSS.png">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/JS.png">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/React.png">
+ </div>
 
 <img width="50px" src="">
 
