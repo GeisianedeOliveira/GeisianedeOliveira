@@ -6,6 +6,8 @@
 
 ### O que tenho estudado:
 
+<img src="">
+
 #### Teste
 
 ### Formações na área da tecnologia:
