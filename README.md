@@ -8,22 +8,12 @@
 
 <div style="display: inline_block">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/HTML.png">
-<img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/CSS.jpg">
+<img width="48px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/CSS.jpg">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/JS.png">
 <img width="50px" src="">
 </div>
 
-<img width="50px" src="">
-
 
 ### Ansiosa para aprender:
 
-#### Teste
-
-### Formações na área da tecnologia:
-
-#### Teste
-
-### Portifólio em construção:
-
-#### Teste
+#### 
