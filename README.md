@@ -1,10 +1,10 @@
-## Olá, que bom que você veio!
+### Olá, que bom que você veio!
 
-### Quem sou eu:
+## Quem sou eu:
 
-### O que tenho estudado:
+## O que tenho estudado:
 
-### Formações na área da tecnologia:
+## Formações na área da tecnologia:
 
 - Teste com hífem
 
