@@ -7,8 +7,8 @@
 ### Tecnologias que estudo:
 
 <div style="display: inline_block">
-<img width="60px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/HTML.png">
-<img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/CSS1.png">
+<img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/HTML.png">
+<img width="55px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/CSS1.png">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/JS.png">
 <img width="50px" src="">
 </div>
