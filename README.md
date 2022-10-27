@@ -7,11 +7,3 @@
 #### Formações na área da tecnologia:
 
 #### Portifólio em construção:
-
-- Teste com hífem
-
-* Teste com asterístico
-*Teste com asteritico colado* e sem
-
-| Criando coluna | Coluna dois |
-| --- | --- |
