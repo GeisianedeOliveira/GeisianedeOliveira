@@ -6,7 +6,7 @@
 
 ### O que tenho estudado:
 
-<img width="5px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/JS.png">
+<img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/JS.png">
 
 #### Teste
 
