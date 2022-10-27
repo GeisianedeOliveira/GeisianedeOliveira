@@ -1,8 +1,4 @@
-<h3>Oi, que bom que você veio! :)</h3>
-
-# Teste
-
-## Teste 2
+## Olá, que bom que você veio!
 
 ### Teste 3
 
