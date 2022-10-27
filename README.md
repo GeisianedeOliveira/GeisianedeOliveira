@@ -1,4 +1,4 @@
-## Olá, que bom que você veio! 👋🏾
+## Olá, que bom que você veio! 👋🏾😊
 
 ### Sobre mim:
 
