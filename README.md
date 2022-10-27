@@ -17,7 +17,3 @@
 </div>
 
 
-### Ansiosa para aprender:
-
-#### 
-
