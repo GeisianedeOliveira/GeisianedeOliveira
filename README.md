@@ -10,6 +10,7 @@
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/HTML.png">
 <img width="46px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/CSS.jpg">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/JS.png">
+<img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/React1.png">
 <img width="50px" src="">
 </div>
 
