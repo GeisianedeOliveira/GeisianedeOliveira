@@ -5,3 +5,7 @@
 ## Teste 2
 
 ### Teste 3
+
+- Teste com hífem
+
+* Teste com asterístico
