@@ -1,4 +1,4 @@
-<h2 align="center" > Olá, que bom que você veio! </h2> <img height="32" src="https://github.com/itsalle/itsalle/raw/main/images/Hi.gif">
+<h2 align="center" img height="32" src="https://github.com/itsalle/itsalle/raw/main/images/Hi.gif"> Olá, que bom que você veio! </h2> <>
 
 #### Quem sou eu:
 
