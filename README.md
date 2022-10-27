@@ -12,3 +12,4 @@
 *Teste com asteritico colado* e sem
 
 | Criando coluna | Coluna dois |
+| --- | --- |
