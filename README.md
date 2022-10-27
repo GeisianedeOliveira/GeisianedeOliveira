@@ -1,4 +1,4 @@
-<h3 align="center" > Olá, que bom que você veio! </h3>
+<h2 align="center" > Olá, que bom que você veio! </h2>
 
 #### Quem sou eu:
 
