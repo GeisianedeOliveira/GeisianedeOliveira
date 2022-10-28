@@ -13,7 +13,6 @@
 <img width="55px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/React1.png">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/Node.png">
 <img width="50px" src="https://github.com/GeisianedeOliveira/GeisianedeOliveira/blob/main/Logo/Python.jpg">
-<img width="50px" src="">
 </div>
 
 
